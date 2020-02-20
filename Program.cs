@@ -40,7 +40,7 @@ namespace SmokeyLibrarian
             Console.WriteLine(DataLayer.AddUser("Jarek"));
             Console.WriteLine(DataLayer.AddUser("Darek"));
             Console.WriteLine(DataLayer.AddUser("Czarek"));
-            Console.WriteLine(DataLayer.AddUser("Duparek"));
+            
             Console.ReadKey();
         }
 
